@@ -33,3 +33,4 @@ Above command will:
 ## Errors 
 
 - https://stackoverflow.com/questions/20127884/runtimeexception-unable-to-create-the-cache-directory-var-www-sonata-app-cach
+- Using curl Error: Failed to connect to localhost port 90: Connection refused : https://laracasts.com/index.php/index.php/discuss/channels/laravel/guzzlehttp-exception-connectexception-curl-error-7-failed-to-connect-to-localhost-port-8087-connection-refused
